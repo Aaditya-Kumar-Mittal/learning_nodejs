@@ -1,0 +1,23 @@
+[
+  {
+    "name": "John Doe",
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown"
+    }
+  },
+  {
+    "name": "Jane Smith",
+    "address": {
+      "street": "456 Elm St",
+      "city": "Othertown"
+    }
+  },
+  {
+    "name": "Alice Johnson",
+    "address": {
+      "street": "789 Maple Ave",
+      "city": "Sometown"
+    }
+  }
+]
