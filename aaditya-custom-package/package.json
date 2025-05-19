@@ -1,0 +1,16 @@
+{
+  "name": "aaditya-custom-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "A custom package for demonstration purposes",
+  "keywords": [
+    "custom",
+    "package",
+    "example"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaditya Kumar Mittal",
+  "license": "ISC"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "building-cli-toools-pokedex",
+  "version": "1.0.0",
+  "description": "Building a custom CLI tool using Node.js and Pokedex API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "akm-pokedex": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "inquirer": "^8.2.5",
+    "yargs": "^17.7.2"
+  }
+}
