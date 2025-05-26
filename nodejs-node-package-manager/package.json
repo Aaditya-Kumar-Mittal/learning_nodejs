@@ -1,0 +1,16 @@
+{
+  "name": "my-package-one",
+  "version": "1.0.0",
+  "description": "This is just for demonstration of NPM.",
+  "license": "ISC",
+  "author": "Aaditya Kumar Mittal",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
