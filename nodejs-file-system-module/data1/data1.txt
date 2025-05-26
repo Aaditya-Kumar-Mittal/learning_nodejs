@@ -1,0 +1,2 @@
+This is a test file created using Node.js file system module.
+This is a new line appended to the file.
